@@ -1,4 +1,4 @@
-Pedometer. Demo application. 
+Pedometer. Demo application (iOS Native). 
 ===================
 
 This is demo application which shows ablities of Mobile Center.
