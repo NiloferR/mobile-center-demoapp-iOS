@@ -1,3 +1,6 @@
-Mobile Center 
-Pedometer demo application
+Mobile Center. 
 ===================
+Pedometer demo application.
+===================
+
+
